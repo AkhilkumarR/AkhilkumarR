@@ -1,11 +1,18 @@
+<html>
+<head>
+</head>
+<body>
+
 <h2 align="left">
  <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" style="border-radius: 15px; overflow: hidden;" width="30"><br>
   <br> I'm Akhil Kumar R, Software Engineer - Development Mobile App :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://camo.githubusercontent.com/f6a3ce319a938926c27df1feef26eeadac0d53253750363b0bdb8412f0726c3e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966" alt="Coder GIF" style="border-radius: 15px; overflow: hidden;" width="500">
  </abc>
 </h2>
+
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTkQa0gAdcpTo8I28Z6_XXY-XFNvfR2J2wWwlxUoZaYwme_Edhsbofs1dvbxGDX-c2bRo&usqp=CAU" alt="html5" width="40" height="40"/> </a>
@@ -30,3 +37,5 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-akhil__kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]() [![Facebook Badge](https://img.shields.io/badge/-@akhil__kumar-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=)]() [![Instagram Badge](https://img.shields.io/badge/-@akhil__kumar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=)]()
+</body>
+</html>
